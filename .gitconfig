@@ -1,0 +1,7 @@
+[core]
+	autocrlf = input
+[user]
+	name = hamze
+	email = hamzaalhanash2005@gmail.com
+[init]
+	defaultBranch = master
